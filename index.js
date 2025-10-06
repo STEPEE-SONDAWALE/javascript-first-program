@@ -19,3 +19,4 @@ console.log(typeof {});      //object
 typeof []
 console.log(typeof []);      //object;
 
+
