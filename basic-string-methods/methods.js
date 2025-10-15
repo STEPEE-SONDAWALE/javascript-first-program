@@ -72,3 +72,8 @@ console.log(text8);
 let text9 = "     Hello World!    h ";
 let text10 = text9.trimEnd();
 console.log(text10);
+
+//repeat()
+let h = "Hello world!";
+let l = h.repeat(8);
+console.log(l);
