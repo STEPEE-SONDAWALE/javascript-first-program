@@ -19,3 +19,4 @@ var  summ = add(5, 7);
 console.log(sum);
 console.log(summ); // Outputs: 12
 
+
