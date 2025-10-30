@@ -17,5 +17,4 @@ fruit[4]="orange";
 document.write(fruit[2]+"<br>");
 document.write(fruit[3]+"<br>");
 document.write(fruit[4]+"<br>");
-
 document.write(fruit[0]+"<br>");
