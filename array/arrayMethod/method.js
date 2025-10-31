@@ -19,5 +19,12 @@
 // document.write(h);
 
 //push
+// const a=['mango','banana','apple','orange'];
+// let h=a.push('kiwi');
+// document.write(h);
 
-      
+     
+//slice
+const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+const citrus = fruits.slice(0, 4);
+document.write(citrus);
