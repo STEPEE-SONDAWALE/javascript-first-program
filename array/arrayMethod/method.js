@@ -29,12 +29,17 @@
 // const citrus = fruits.slice(0, 4);
 // document.write(citrus);
 
-// include
-const array=[1,2,3,4,5,6,7,8,9];
-let a=array.includes(55);
-if(a==true){
-    document.write("yes present");
-}
-else{
-    document.write("no present");
-}
+// include()
+// const array=[1,2,3,4,5,6,7,8,9];
+// let a=array.includes(55);
+// if(a==true){
+//     document.write("yes present");
+// }
+// else{
+//     document.write("no present");
+// }
+
+// flatMap()
+// var arr1 = [1, 2, 3, 4];
+// var result = arr1.flatMap(x => [x, x * 20]);
+// document.write(result);
