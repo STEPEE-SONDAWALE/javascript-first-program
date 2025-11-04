@@ -24,20 +24,20 @@
 // document.write(h);
 
      
-//slice
-// const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
-// const citrus = fruits.slice(0, 4);
-// document.write(citrus);
+slice
+const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+const citrus = fruits.slice(0, 4);
+document.write(citrus);
 
-// include()
-// const array=[1,2,3,4,5,6,7,8,9];
-// let a=array.includes(55);
-// if(a==true){
-//     document.write("yes present");
-// }
-// else{
-//     document.write("no present");
-// }
+include()
+const array=[1,2,3,4,5,6,7,8,9];
+let a=array.includes(55);
+if(a==true){
+    document.write("yes present");
+}
+else{
+    document.write("no present");
+}
 
 flatMap()
 var arr1 = [1, 2, 3, 4];
