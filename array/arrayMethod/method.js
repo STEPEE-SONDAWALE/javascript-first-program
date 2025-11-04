@@ -39,7 +39,7 @@
 //     document.write("no present");
 // }
 
-// flatMap()
-// var arr1 = [1, 2, 3, 4];
-// var result = arr1.flatMap(x => [x, x * 20]);
-// document.write(result);
+flatMap()
+var arr1 = [1, 2, 3, 4];
+var result = arr1.flatMap(x => [x, x * 20]);
+document.write(result);
